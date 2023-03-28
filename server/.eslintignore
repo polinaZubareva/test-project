@@ -1,0 +1,5 @@
+node_modules
+./dist
+.eslintignore
+package-lock.json
+*.json
